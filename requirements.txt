@@ -1,0 +1,12 @@
+groq
+sentence-transformers
+faiss-cpu
+pandas
+openpyxl
+beautifulsoup4
+lxml
+python-dotenv
+numpy
+tqdm
+datetime 
+streamlit
