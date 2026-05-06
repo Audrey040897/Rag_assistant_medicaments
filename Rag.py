@@ -11,6 +11,7 @@ from agent1 import run_agent1
 from agent2 import run_agent2
 
 
+
 def main():
     print("\n" + "="*60)
     print("🏥  ASSISTANT MÉDICAL — Conseil sur les médicaments")
